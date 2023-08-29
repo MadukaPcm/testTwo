@@ -1,0 +1,39 @@
+// eslint-disable-next-line import/no-anonymous-default-export
+export default [
+    {
+        id:1,
+        img:"images/mmm.jpg",
+        name:"USA",
+        star:"",
+        like:7,
+        openSpots:10,
+        location:"Online"
+    },
+    {
+        id:2,
+        img:"images/mmm.jpg",
+        name:"USA",
+        star:"images/star.png",
+        like:"",
+        openSpots:0,
+        location:"Online"
+    },
+    {
+        id:3,
+        img:"images/m.jpg",
+        name:"SPAIN",
+        star:"images/star.png",
+        like:23,
+        openSpots:27,
+        location:"Online"
+    },
+    {
+        id:4,
+        img:"images/m.jpg",
+        name:"",
+        star:"images/star.png",
+        like:"",
+        openSpots:0,
+        location:"Online"
+    }
+]
